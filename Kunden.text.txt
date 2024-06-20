@@ -1,3 +1,0 @@
-1-Ali : 1
-2-Ahmad : 2
-3-Salim : 3
